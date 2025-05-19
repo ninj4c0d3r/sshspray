@@ -26,7 +26,7 @@ A high-performance SSH spray tool using `github.com/melbahja/goph`, supporting p
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/sshspray.git
+git clone https://github.com/ninj4c0d3r/sshspray.git
 cd sshspray
 go mod tidy
 ```
