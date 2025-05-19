@@ -1,6 +1,6 @@
 # SSH Spray Tool
 
-A flexible and high-performance SSH spray tool built with `github.com/melbahja/goph`.
+A flexible and high-performance SSH spray and brute-force tool built with `github.com/melbahja/goph`.
 
 ## Features
 
