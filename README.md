@@ -1,6 +1,6 @@
 # SSH Spray Tool
 
-A high-performance SSH spray tool using `github.com/melbahja/goph`, supporting password and key authentication, combo lists, CIDR or single IPs, concurrency control, and timeouts.
+A flexible and high-performance SSH spray tool built with `github.com/melbahja/goph`.
 
 ## Features
 
