@@ -88,7 +88,7 @@ go run main.go [OPTIONS]
 ### 1. Using a combo list (recommended)
 
 ```bash
-go run main.go -C combos.txt -T targets.txt -q 20 -v
+go run main.go -C combos.txt -T targets.txt -q 10 -v --jmin 250 --jmax 1000
 ```
 
 Example `combos.txt`:
