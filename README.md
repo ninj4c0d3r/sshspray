@@ -101,7 +101,7 @@ user:test123
 ### 2. Using separate user and password files
 
 ```bash
-go run main.go -U users.txt -P passwords.txt -T targets.txt -q 30
+go run main.go -U users.txt -P passwords.txt -T targets.txt -q 15 -w 3
 ```
 
 ### 3. Single target, user and password
